@@ -1,0 +1,48 @@
+This is your bill:-
+1| Fortune Refined Sunflower Oil Tin:15 Litres 	 	 	|prize: 1620.00|quantity: 17|Lastprice: 27540.00|
+2| Gala Double Lip Bathroom Wiper:1Unit 	 	 	|prize: 189.00|quantity: 17|Lastprice: 3213.00|
+total price is:-30753.000000
+SGST:-2460.239990
+CGST:-2460.239990
+This is your bill:-
+1| Fortune Refined Sunflower Oil Tin:15 Litres 	 	 	|prize: 1620.00|quantity: 15|Lastprice: 24300.00|
+2| Gala Double Lip Bathroom Wiper:1Unit 	 	 	|prize: 189.00|quantity: 20|Lastprice: 3780.00|
+total price is:-28080.000000
+SGST:-2246.399902
+CGST:-2246.399902
+This is your bill:-
+1| Premia Badam(Almonds):500gmas 	 	 	|prize: 415.00|quantity: 14|Lastprice: 5810.00|
+total price is:-5810.000000
+SGST:-464.799988
+CGST:-464.799988
+This is your bill:-
+1| Fortune Refined Sunflower Oil Tin:15 Litres 	 	 	|prize: 1620.00|quantity: 10|Lastprice: 16200.00|
+2| Thums Up Bottle:8*250ml 	 	 	|prize: 130.00|quantity: 15|Lastprice: 1950.00|
+3| Tata Tea Agni:1.5kgs 	 	 	|prize: 260.00|quantity: 5|Lastprice: 1300.00|
+total price is:-19450.000000
+SGST:-1556.000000
+CGST:-1556.000000
+This is your bill:-
+1| Fortune Refined Sunflower Oil Tin:15 Litres 	 	 	|prize: 1620.00|quantity: 10|Lastprice: 16200.00|
+2| Gala Double Lip Bathroom Wiper:1Unit 	 	 	|prize: 189.00|quantity: 10|Lastprice: 1890.00|
+3| Taj tea:500gms 	 	 	|prize: 375.00|quantity: 10|Lastprice: 3750.00|
+total price is:-21840.000000
+SGST:-1747.199951
+CGST:-1747.199951
+This is your bill:-
+1| Fortune Refined Sunflower Oil Tin:15 Litres 	 	 	|prize: 1620.00|quantity: 14|Lastprice: 22680.00|
+total price is:-22680.000000
+SGST:-1814.400024
+CGST:-1814.400024
+This is your bill:-
+1| Fortune Refined Sunflower Oil Tin:15 Litres 	 	 	|prize: 1620.00|quantity: 14|Lastprice: 22680.00|
+2| Taj tea:500gms 	 	 	|prize: 375.00|quantity: 12|Lastprice: 4500.00|
+total price is:-27180.000000
+SGST:-2174.399902
+CGST:-2174.399902
+This is your bill:-
+1| Fortune Refined Sunflower Oil Tin:15 Litres 	 	 	|prize: 1620.00|quantity: 1|Lastprice: 1620.00|
+2| Saffola Gold Oil:1 Litre 	 	 	|prize: 152.00|quantity: 1|Lastprice: 152.00|
+total price is:-1772.000000
+SGST:-141.759995
+CGST:-141.759995
